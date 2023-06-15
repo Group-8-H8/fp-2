@@ -5,6 +5,7 @@ import (
 )
 
 var (
+	SERVER_PORT = os.Getenv("PORT")
 	HOST     = os.Getenv("PG_HOST")
 	PORT     = os.Getenv("PG_PORT")
 	USERNAME = os.Getenv("PG_USER")
