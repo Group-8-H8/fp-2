@@ -1,4 +1,7 @@
 package config
+import(
+	"os"
+)
 
 var (
 	HOST     = os.Getenv("PG_HOST")
