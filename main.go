@@ -14,5 +14,5 @@ func main() {
 		fmt.Println("Error starting database: ", err)
 		return
 	}
-	r.Run(config.SERVER_PORT)
+	r.Run(":" + config.SERVER_PORT)
 }
