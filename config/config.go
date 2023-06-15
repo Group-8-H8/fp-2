@@ -10,4 +10,5 @@ var (
 	PASSWORD = os.Getenv("PG_PASSWORD")
 	DB_NAME  = os.Getenv("PG_DB_NAME")
 	dialect = "postgres"
+	SECRET_KEY string = "_OkTaa"
 )
