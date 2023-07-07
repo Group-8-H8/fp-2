@@ -2,4 +2,4 @@
 
 ### Main URI
 
-[https://fp-2-production-ef54.up.railway.app/](https://fp-2-production-ef54.up.railway.app/)
+[http://fp-2-production-05a2.up.railway.app/](http://fp-2-production-05a2.up.railway.app/)
